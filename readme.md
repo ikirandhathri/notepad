@@ -18,6 +18,6 @@ A simple Notepad application built with Java Swing.
     ```
 2. Run:
     ```
-    java -cp src Notepad
+    java src Notepad
     ```
 
